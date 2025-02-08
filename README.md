@@ -13,3 +13,26 @@ Com planos de treino adaptáveis, aulas variadas e acompanhamento contínuo, o D
 - Jéssica Gabrielle Moreira Rocha
 - Maria Paula Moreira Rocha
 - Mateus Camilo Lima de Almeida
+
+
+## Header
+![Header](previa/header.png)
+
+## Quem Somos e Estrutura
+![Quem Somos e Estrutura](previa/quem somos e estrutura.png)
+
+## Modalidades
+![Modalidades](previa/modalidades.png)
+
+## Nossa Equipe
+![Nossa Equipe](previa/nossa equipe.png)
+
+## Planos
+![Planos](previa/planos.png)
+
+## App
+![App](previa/app e footer.png)
+
+
+
+
