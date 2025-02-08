@@ -15,6 +15,7 @@ Com planos de treino adaptáveis, aulas variadas e acompanhamento contínuo, o D
 - Mateus Camilo Lima de Almeida
 
 
+<<<<<<< HEAD
 ## Header
 ![Header](previa/header.png)
 
@@ -32,10 +33,5 @@ Com planos de treino adaptáveis, aulas variadas e acompanhamento contínuo, o D
 
 ## App
 ![App](previa/app e footer.png)
-<<<<<<< HEAD
-=======
 
 
-
-
->>>>>>> a5e2b29eea9f6bd0eb51ff804bd0b6d7571b0441
