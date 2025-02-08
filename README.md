@@ -18,7 +18,7 @@ O **Desenvolve Saúde** é mais do que uma academia; é uma comunidade dedicada 
 
 - **Planos**: Planos flexíveis (Bronze, Prata e Ouro) que se adaptam às suas necessidades e orçamento.
 
-- **Aplicativo**: O **Desenvolve Saúde App** oferece treinos personalizados, acompanhamento de progresso e acesso a vários treinos.
+- **Aplicativo**: O **Desenvolve Saúde App** oferece treinos personalizados, acompanhamento de progresso e dicas de saúde.
 
 
 ## 🌐 Website Preview
