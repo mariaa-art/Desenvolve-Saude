@@ -17,21 +17,21 @@ Com planos de treino adaptáveis, aulas variadas e acompanhamento contínuo, o D
 
 <<<<<<< HEAD
 ## Header
-![Header](previa/header.png)
+![Header](previa/header.png) 
 
 ## Quem Somos e Estrutura
-![Quem Somos e Estrutura](previa/quem somos e estrutura.png)
+![Quem Somos e Estrutura](previa/qs_estrutura.png)
 
 ## Modalidades
 ![Modalidades](previa/modalidades.png)
 
 ## Nossa Equipe
-![Nossa Equipe](previa/nossa equipe.png)
+![Nossa Equipe](previa/equipe.png)
 
 ## Planos
 ![Planos](previa/planos.png)
 
 ## App
-![App](previa/app e footer.png)
+![App](previa/appFooter.png)
 
 
