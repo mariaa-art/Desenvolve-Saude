@@ -183,7 +183,7 @@ nav {
 /* NOSSAS MODALIDADES */
 .modalidades__container {
   padding: 60px 20px;
-  background:none;
+  background: none;
   text-align: center;
 }
 
@@ -230,11 +230,17 @@ nav {
   box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
 }
 
+.modalidades-card__img-container {
+  width: 100%;
+  aspect-ratio: 16 / 9; 
+  overflow: hidden;
+}
+
 .modalidades-card__img {
   width: 100%;
-  height: 200px;
-  object-fit: cover;
-  border-bottom: 2px solid var(--secondary-color);
+  height: 100%;
+  object-fit: cover; 
+  object-position: center; 
 }
 
 .modalidades-card__content {
@@ -257,7 +263,7 @@ nav {
   gap: 20px;
   justify-content: center;
   width: 100%;
-  padding: 0 10px; 
+  padding: 0 10px;
 }
 
 .column {
@@ -271,27 +277,60 @@ nav {
   font-size: 1rem;
   color: var(--text-light);
   margin-bottom: 10px;
-  text-align: center; 
-  width: 100%; 
+  text-align: center;
+  width: 100%;
   line-height: 1.5;
-  font-weight: 500; 
+  font-weight: 500;
 }
 
 /* Media Queries */
 @media (max-width: 768px) {
+  .modalidades-title {
+    font-size: 2rem; 
+  }
+
+  .modalidades-description {
+    font-size: 1rem; 
+  }
+
+  .modalidades-card__img-container {
+    aspect-ratio: 4 / 3; 
+  }
+
+  .modalidades-card__title {
+    font-size: 1.5rem; 
+  }
+
   .modalidades-card__aulas {
-    flex-direction: column;
+    flex-direction: column; 
     gap: 10px;
   }
 
   .column {
-    width: 100%;
+    width: 100%; 
   }
 
   .column p {
     font-size: 0.95rem; 
   }
 }
+
+@media (max-width: 480px) {
+  .modalidades-card__img-container {
+    aspect-ratio: 1 / 1; 
+  }
+
+  .modalidades-card__title {
+    font-size: 1.25rem; 
+  }
+
+  .column p {
+    font-size: 0.9rem; 
+  }
+}
+
+
+
 /*________________________________________________________________________________________________________________________________________________________________________*/
 
 /* APLICATIVOS */
@@ -363,7 +402,6 @@ nav {
   max-width: 100%;
   height: auto;
   object-fit: contain;
-  /* Removido o box-shadow e border-radius */
 }
 
 .app__button-container {
