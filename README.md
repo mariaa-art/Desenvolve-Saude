@@ -4,6 +4,8 @@
 
 O **Desenvolve Saúde** é mais do que uma academia; é uma comunidade dedicada ao bem-estar e à transformação de vidas. Com uma estrutura moderna, profissionais qualificados e um ambiente acolhedor, nosso objetivo é ajudar você a alcançar seus melhores resultados, priorizando saúde, qualidade de vida e motivação.
 
+## 🔥 Venha transformar sua saúde de forma segura e eficiente!
+
 ### Destaques do Site:
 
 - **Quem Somos**: Apresentação da nossa missão e valores, destacando a estrutura moderna e o compromisso com o bem-estar.
@@ -18,7 +20,13 @@ O **Desenvolve Saúde** é mais do que uma academia; é uma comunidade dedicada 
 
 - **Aplicativo**: O **Desenvolve Saúde App** oferece treinos personalizados, acompanhamento de progresso e acesso a vários treinos.
 
-## 🔥 Venha transformar sua saúde de forma segura e eficiente!
+
+## 🌐 Website Preview
+
+Aqui está uma prévia do site:
+
+![Website Preview](websitePreview.png)
+
 
 ## 👥 **GRUPO**
 - Anna Karolyna Silva de Paula 
