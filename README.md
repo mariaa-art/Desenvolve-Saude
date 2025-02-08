@@ -20,7 +20,7 @@ Com planos de treino adaptáveis, aulas variadas e acompanhamento contínuo, o D
 ![Header](previa/header.png) 
 
 ## Quem Somos e Estrutura
-![Quem Somos e Estrutura](previa/qs_estrutura.png)
+![Quem Somos e Estrutura](previa/qsestrutura.png)
 
 ## Modalidades
 ![Modalidades](previa/modalidades.png)
